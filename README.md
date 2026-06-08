@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Professional Summary
 
-**BS Artificial Intelligence Student** specializing in **Artificial Intelligence** and **Machine Learning** with a strong foundation in AI & ML and Data Science. Passionate about leveraging cutting-edge technologies to solve real-world problems and drive innovation in AI applications.
+**AI & Machine Learning Engineer** specializing in **Artificial Intelligence** and **Data Science**. Passionate about leveraging cutting-edge technologies to solve real-world problems, optimize systems, and drive innovation in AI applications.
 
 **Current Focus:** Developing AI-powered solutions with expertise in deep learning, computer vision, and intelligent systems design.
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 ## Academic & Professional Development
 
-**Current Studies:**
+**Core Competencies:**
 - Advanced Mathematics: Differential Equations, Linear Algebra, Statistics
 - Machine Learning: Deep Learning, Computer Vision, Natural Language Processing
 - Software Engineering: Data Structures, Algorithms, System Design
