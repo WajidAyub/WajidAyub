@@ -107,10 +107,10 @@ Here are some ideas to get you started:
 
 | Project | Description | Technology Stack | Repository |
 |---------|-------------|------------------|------------|
-| **Personality Analysis System** | Advanced AI system for psychological profiling using machine learning algorithms | Python, TensorFlow, Pandas, Scikit-learn | [View Project](#) |
-| **Banking Management System** | Comprehensive financial management solution with advanced data structures | C++, Data Structures, File I/O | [View Project](#) |
-| **Financial Portfolio Tracker** | Real-time stock market analysis and portfolio optimization tool | Python, Pandas, Matplotlib, APIs | [View Project](#) |
-| **Intelligent Game Engine** | AI-powered gaming framework with adaptive difficulty algorithms | Python, Machine Learning, Game Development | [View Project](#) |
+| **Deep Learning Portfolio** | A collection of state-of-the-art AI projects including CNNs, GANs, and LLM fine-tuning. | PyTorch, TensorFlow, Transformers | [View Project](https://github.com/WajidAyub/Deep-Learning-Portfolio) |
+| **Applied Machine Learning** | Comprehensive end-to-end ML projects from EDA to deployment pipelines. | Python, Scikit-learn, Pandas | [View Project](https://github.com/WajidAyub/Applied-Machine-Learning) |
+| **Personality Analyzer** | Advanced AI system for psychological profiling using machine learning algorithms. | Python, TensorFlow, Scikit-learn | [View Project](https://github.com/WajidAyub/Personality_Analyzer) |
+| **Autonomous Taxi Simulator** | Reinforcement Learning agent simulator navigating a taxi environment. | Python, RL | [View Project](https://github.com/WajidAyub/Autonomous-Taxi-Agent-Simulator) |
 
 ---
 
